@@ -70,6 +70,8 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [BigJPG](https://bigjpg.com/): Use AI to increase the size of your images.
 * [CleanPNG](https://www.cleanpng.com/): Clean and free PNG images, with transparent backgrounds, ready to use.
 * Free stock photos, images & videos: [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com), [Unsplash](https://unsplash.com/).
+*  [Carbon](https://excalidraw.com/): A free, open-source virtual whiteboard
+  for creating hand-drawn-style diagrams and sketches.
 * [Excalidraw](https://excalidraw.com/): A free, open-source virtual whiteboard
   for creating hand-drawn-style diagrams and sketches.
 * [Online OCR](https://www.onlineocr.net/): Free online OCR service.
